@@ -1,0 +1,932 @@
+.mainbck{
+    position: absolute;
+    width: 1921px;
+    height: 900px;
+    left: -1px;
+    top: 0px;
+}
+
+.logo{
+    position: absolute;
+    width: 182.09px;
+    height: 51px;
+    left: 868px;
+    top: 70px;
+}
+
+
+.maintext{  
+    position: absolute;
+    width: 932px;
+    height: 86px;
+    left: 550px;
+    top: 286px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 87px;
+    font-variant: all-small-caps;
+    color: #FFFFFF;
+}
+
+.undermain{
+    color: #FFFFFF;
+    position: absolute;
+    width: 589px;
+    height: 57px;
+    left: 722px;
+    top: 375px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 57px
+}
+
+.consult{
+    position: absolute;
+    width: 307.58px;
+    height: 100px;
+    left: 845px;
+    top: 500px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 25px;
+    color: #FFFFFF;
+}     
+
+.telegram{
+    position: absolute;
+    width: 30px;
+    height: 22px;
+    left: 932px;
+    right: 968px;
+    top: 836px;
+    
+}
+
+
+.facebook{
+    position: absolute;
+    width: 50px;
+    height: 42px;
+    left: 1026px;
+    right: 877px;
+    top: 832px;
+    
+}
+
+.whatsapp{
+    position: absolute;
+    left: 983px;
+    right: 921px;
+    top: 832px;   
+}
+
+.instagram{
+    position: absolute;
+    width: 29.53px;
+    height: 29.52px;
+    left: 879px;
+    top: 832.51px;
+}
+
+.mainbck2{
+    position: absolute;
+    width: 600px;
+    height: 670px;
+    left: 959px;
+    top: 1143px;
+}
+
+.yslugi{
+    position: absolute;
+    width: 198px;
+    height: 33px;
+    left: 360px;
+    top: 1050px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #868585;
+}
+
+.txt1{
+    position: absolute;
+    left: 360px;
+    right: 1050px;
+    top: 1143px;
+    bottom: 4615px;
+    font-size: 21px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    line-height: 25px;
+    font-weight: 800;
+}
+
+.txt2{
+    position: absolute;
+    width: 510px;
+    height: 76px;
+    left: 360px;
+    top: 1183px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txt3{
+    position: absolute;
+    width: 510px;
+    height: 50px;
+    left: 360px;
+    top: 1309px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txt4{
+    position: absolute;
+    width: 510px;
+    height: 76px;
+    left: 360px;
+    top: 1374px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txt5{
+    position: absolute;
+    width: 510px;
+    height: 25px;
+    left: 360px;
+    top: 1500px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txt6{
+    position: absolute;
+    width: 510px;
+    height: 76px;
+    left: 360px;
+    top: 1540px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txt7{
+    position: absolute;
+    width: 510px;
+    height: 25px;
+    left: 360px;
+    top: 1666px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txt8{
+    position: absolute;
+    width: 510px;
+    height: 76px;
+    left: 360px;
+    top: 1706px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.ztarif{
+    position: absolute;
+    width: 217px;
+    height: 33px;
+    left: 362px;
+    top: 1963px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #868585;
+}
+
+.txtt1{
+    position: absolute;
+    width: 82px;
+    height: 22px;
+    left: 360px;
+    top: 2056px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px; 
+    color: #303030;
+}
+
+.txtt2{
+    position: absolute;
+    width: 115px;
+    height: 22px;
+    left: 482px;
+    top: 2056px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.mainbck3{
+    position: absolute;
+    top: 2203px;
+    left: 960px;
+    bottom: 3055px;
+    right: 360px;
+    width: 600px;
+    height: 525px;
+}
+
+.txtt3{
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Noto Sans';
+    top: 2050px;
+    left: 960px;
+    bottom: 3597px;
+    right: 360px;
+    width: 600px;
+    height: 130px;
+    width: 600px;
+    font-weight: 700;
+    line-height: 25px;
+    color: #303030;
+    font-style: Bold;
+}
+
+.txtt4{
+    position: absolute;
+    width: 123px;
+    height: 22px;
+    left: 637px;
+    top: 2056px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.secondbck3{
+    position: absolute;
+    width: 235px;
+    height: 200px;
+    left: 360px;
+    top: 2203px;
+}
+
+.txtt5{
+    position: absolute;
+    width: 235px;
+    height: 114px;
+    left: 635px;
+    top: 2182px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txtt6{
+    position: absolute;
+    width: 184px;
+    height: 26px;
+    left: 360px;
+    top: 2503px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txtt7{
+    position: absolute;
+    width: 235px;
+    height: 78.44px;
+    left: 360px;
+    top: 2534px;  
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txtt8{
+    position: absolute;
+    width: 160px;
+    height: 25px;
+    left: 360px;
+    top: 2629px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txtt9{
+    position: absolute;
+    width: 235px;
+    height: 57px;
+    left: 360px;
+    top: 2660px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txtt10{
+    position: absolute;
+    width: 160px;
+    height: 26px;
+    left: 635px;
+    top: 2503px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txtt11{
+    position: absolute;
+    width: 235px;
+    height: 76px;
+    left: 635px;
+    top: 2534px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19px;
+    color: #303030;  
+}
+
+.txtt12{
+    position: absolute;
+    width: 160px;
+    height: 28px;
+    left: 635px;
+    top: 2629px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txtt13{
+    position: absolute;
+    width: 235px;
+    height: 40px;
+    left: 635px;
+    top: 2661.53px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19px;
+    color: #303030;    
+}
+
+.mainbck4{
+    position: absolute;
+width: 1920px;
+height: 500px;
+left: 0px;
+top: 2878px;
+}
+
+.ttxt1{
+    position: absolute;
+    width: 673px;
+    height: 228px;
+    left: 623px;
+    top: 3006px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 57px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.txtt14{
+    position: absolute;
+    width: 275px;
+    height: 33px;
+    left: 361px;
+    top: 3528px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #868585;
+}
+
+.mainbck5{
+    position: absolute;
+    width: 510px;
+    height: 370px;
+    left: 360px;
+    top: 3621px;
+}
+
+.txtt15{
+    position: absolute;
+    width: 478px;
+    height: 50px;
+    left: 961px;
+    top: 3595px;
+    font-family: 'Noto Sans';
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txtt16{
+    position: absolute;
+    width: 549px;
+    height: 21px;
+    left: 1011px;
+    top: 3701px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txtt17{
+    position: absolute;
+    width: 549px;
+    height: 19px;
+    left: 1011px;
+    top: 3733px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txtt18{
+    position: absolute;
+    width: 549px;
+    height: 19px;
+    left: 1011px;
+    top: 3776px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 19px;
+    color: #303030;
+
+}
+
+.txtt19{
+    position: absolute;
+    width: 549px;
+    height: 19px;
+    left: 1011px;
+    top: 3807px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txt9{
+    position: absolute;
+    width: 324px;
+    height: 66px;
+    left: 361px;
+    top: 4173px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #868585;
+    white-space: pre-line;
+}
+
+.txt10{
+    position: absolute;
+    width: 181px;
+    height: 25px;
+    left: 360px;
+    top: 4329px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txt11{
+    position: absolute;
+    width: 510px;
+    height: 38px;
+    left: 360px;
+    top: 4356px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txt12{
+    position: absolute;
+    width: 323px;
+    height: 25px;
+    left: 360px;
+    top: 4454px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txt13{
+    position: absolute;
+    width: 510px;
+    height: 38px;
+    left: 360px;
+    top: 4481px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txt14{
+    position: absolute;
+    width: 216px;
+    height: 25px;
+    left: 360px;
+    top: 4579px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txt15{
+    position: absolute;
+    width: 510px;
+    height: 38px;
+    left: 360px;
+    top: 4606px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.txt16{
+    position: absolute;
+    width: 121px;
+    height: 25px;
+    left: 360px;
+    top: 4699px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+}
+
+.txt17{
+    position: absolute;
+    width: 510px;
+    height: 38px;
+    left: 360px;
+    top: 4726px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.mainbck6{
+    position: absolute;
+    width: 600px;
+    height: 730px;
+    left: 960px;
+    top: 4173px; 
+}
+
+.mainbck7{
+    position: absolute;
+    width: 1920px;
+    height: 730px;
+    left: 0px;
+    top: 5053px;
+}
+
+.txt18{
+    position: absolute;
+    width: 232px;
+    height: 33px;
+    left: 360px;
+    top: 5123px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #FFFFFF;
+    white-space: nowrap;
+}
+
+.txt19{
+    position: absolute;
+    width: 30px;
+    height: 19px;
+    left: 359px;
+    top: 5216px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.line1{
+    position: absolute;
+    width: 510px;
+    height: 0px;
+    left: 359px;
+    top: 5249px;
+}
+
+.txt20{
+    position: absolute;
+    width: 59px;
+    height: 19px;
+    left: 359px;
+    top: 5304px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.line2{
+    position: absolute;
+    width: 510px;
+    height: 0px;
+    left: 359px;
+    top: 5336px;
+}
+
+.txt21{
+    position: absolute;
+    width: 143px;
+    height: 25px;
+    left: 409px;
+    top: 5455px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.txt22{
+    position: absolute;
+    width: 137px;
+    height: 33px;
+    left: 960px;
+    top: 5123px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+.txt23{
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    left: 960px;
+    top: 5216px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.txt24{
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    left: 960px;
+    top: 5296px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.txt25{
+    position: absolute;
+    width: 600px;
+    height: 25px;
+    left: 960px;
+    top: 5376px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.txt26{
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    left: 960px;
+    top: 5431px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.txt27{
+    position: absolute;
+    width: 600px;
+    height: 22px;
+    left: 960px;
+    top: 5511px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.logo2{
+    position: absolute;
+    left: 870px;
+    top: 5689px;
+    bottom: 69px;
+    right: 870px;
+    width: 179px;
+    height: 24px;
+
+}
+
+.txt28{
+    box-sizing: border-box;
+    position: absolute;
+    width: 212px;
+    height: 16px;
+    left: 360px;
+    top: 5693px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF
+}
+
+.facebook2{
+    box-sizing: border-box;
+    position: absolute;
+    left: 1542px;
+    right: 360px;
+    top: 5689px;
+    bottom: 68px;
+    background: #FFFFFF;
+
+}
+
+.instagram2{
+    box-sizing: border-box;
+    position: absolute;
+    left: 1393px;
+    right: 497px;
+    top: 5689px;
+    bottom: 68px;
+    background: #FFFFFF;
+
+}
+
+.telegram2{
+    box-sizing: border-box;
+    position: absolute;
+    left: 1442px;
+    right: 447px;
+    top: 5692px;;
+}
+
+.whatsapp2{
+    box-sizing: border-box;
+    position: absolute;
+    left: 1492px;
+    right: 397px;
+    top: 5689px;
+    bottom: 68px;
+    background: #FFFFFF; 
+}
+
+
+
+
+
